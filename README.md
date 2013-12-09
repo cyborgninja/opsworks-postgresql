@@ -1,0 +1,1 @@
+opsworks上で、rails+postgresを構築する
