@@ -10,7 +10,7 @@ AWS提供のopsworks上で、rails + postgresの環境を作る方法です。
 ###1. Stackの設定
 
 1. Use custom Chef cookbooks をアクティブにする
-2. Repository URLにこのgitのURLをコピペする
+2. Repository URLにこのgitのURL( https://github.com/cyborgninja/opsworks-postgresql.git )をコピペする
 
 ###2. Layerの設定
 1. Custom Chef Recipes に先ほど設定したURLが表示されているか確認する
