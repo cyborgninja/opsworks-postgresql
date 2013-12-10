@@ -14,7 +14,7 @@ AWS提供のopsworks上で、rails + postgresの環境を作る方法です。
 
 ###2. Layerの設定
 1. Custom Chef Recipes に先ほど設定したURLが表示されているか確認する
-2. Setupに「postgresql::ruby」と書いて＋を押す
+2. Setupに**postgresql::ruby**と書いて＋を押す
 
 ###3. Instancesの設定
 普通にInstancesを作成してください。
